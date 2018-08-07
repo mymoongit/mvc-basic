@@ -27,6 +27,7 @@
 	</ul>
 	<ul>
 		<li><a href="account">@Controller Example</a></li>
+		<li><a href="">nlp coming!</a></li>
 	</ul>
 </div>
 </body>
